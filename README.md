@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/matheus-jorge-4a4825234" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-jorge-4a4825234" target="_post">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
 </a>  
 <a href="matheusjrs.jorgerodrigues@gmail.com">
