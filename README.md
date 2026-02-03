@@ -82,6 +82,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MatheusJorgee/MatheusJorgee/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MatheusJorgee/MatheusJorgee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ###
