@@ -73,8 +73,8 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJorgee&theme=dracula&area=true&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJorgee&theme=github&area=true&hide_border=false">
-    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJorgee&theme=github&area=true&hide_border=false" height="150" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJorgee&theme=github-light&area=true&hide_border=false">
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusJorgee&theme=github-light&area=true&hide_border=false" height="150" />
   </picture>
 </div>
 
